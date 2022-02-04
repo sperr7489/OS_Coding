@@ -1,0 +1,2 @@
+cat pa1.c | sort -n
+echo hello_my_cruel_world | cut -c2-5
